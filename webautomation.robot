@@ -14,6 +14,7 @@ ${BROWSER}     chrome
 
 
 
+
 *** Test Cases ***
 Cenario: Buscando uma roupa
     [Tags]    BUSCA
